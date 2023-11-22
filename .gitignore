@@ -1,0 +1,10 @@
+__pycache__/
+
+.vscode/
+
+venv
+.venv
+
+.idea
+
+model/model.joblib
